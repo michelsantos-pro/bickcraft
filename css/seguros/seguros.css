@@ -25,7 +25,7 @@
   margin-bottom: 40px;
 }
 
-.seguros span {
+.seguros-item span {
   grid-column: 2;
   display: block;
   text-align: right;
